@@ -1,0 +1,8 @@
+{
+    "staticBase": [
+        ["merge"],
+        {
+            "merge": ["https://github.com/JhonnyJason/pageheadsourcemodule-template"]
+        }
+    ]
+}
