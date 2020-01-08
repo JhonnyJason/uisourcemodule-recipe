@@ -2,7 +2,7 @@
     "staticBase": [
         ["merge"],
         {
-            "merge": ["https://github.com/JhonnyJason/pageheadsourcemodule-template"]
+            "merge": ["https://github.com/JhonnyJason/uisourcemodule-template"]
         }
     ]
 }
